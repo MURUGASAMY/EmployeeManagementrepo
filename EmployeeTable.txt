@@ -1,0 +1,2 @@
+create table Employee(empid Integer,empname text,empsal Integer,empdob date,emploc text);
+Insert into Employee(empid,empname,empsal,empdob,emploc)values(13,mur,15000,2020-12-12,chennai),(15,sam,16000,2020-12-11,mumbai),(16,muge,17000,2020-11-25);
